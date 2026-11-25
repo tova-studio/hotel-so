@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:36:43.371Z",
+  "slug": "ghihotels",
+  "name": "Hotel So",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Motels, hotels & B&Bs",
+    "niche": "motels, hotels & b&bs",
+    "group": "Food & hospitality"
+  },
+  "contact": {
+    "phone": "+6433792999",
+    "email": "res@grandc.co.nz",
+    "address": "Henderson House, 165 Cashel St, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/208238855868881"
+  },
+  "about": {
+    "overview": "Hotel Grand Central Limited expanded its hotel and commercial property interest into Australia and New Zealand in the early 1990s, purchasing commercial property in Sydney, Australia and Wellington, New Zealand. Further expansion occurred again with the purchase of several hotel properties in Australia and New Zealand in 1995. At this point, Grand Central Management Limited was established to manage the various hotel and commercial property interests.",
+    "tagline": "中国"
+  },
+  "before": {
+    "url": "https://www.ghihotels.com",
+    "domain": "ghihotels.com",
+    "finalUrl": "http://www.ghihotels.com/hgc/index.aspx",
+    "title": "Grand Hotels International ›› Hotel accommodation in Asia Pacific",
+    "pages": 12,
+    "score": 74,
+    "assessedAt": "2026-11-24T12:56:11.530Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.ghihotels.com/hgc/index.aspx. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "legacy-markup",
+        "title": "Built with legacy page techniques",
+        "evidence": "2 deprecated tags and 4 layout tables found (modern sites use responsive CSS)."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/hotel-so/",
+    "repoUrl": "https://github.com/tova-studio/hotel-so",
+    "generator": "claude",
+    "accent": "#b51600",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:36:43.371Z"
+  }
+}
